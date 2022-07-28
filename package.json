@@ -1,0 +1,17 @@
+{
+   "name": "play-ground",
+   "version": "1.0.0",
+   "description": "",
+   "main": "index.js",
+   "type": "module",
+   "scripts": {
+      "start": "lite-server",
+      "convert": "node test.js"
+   },
+   "author": "Thanh",
+   "license": "ISC",
+   "dependencies": {
+      "lite-server": "^2.6.1",
+      "potrace": "^2.1.8"
+   }
+}
