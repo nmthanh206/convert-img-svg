@@ -6,7 +6,7 @@
    "type": "module",
    "scripts": {
       "start": "lite-server",
-      "convert": "node test.js"
+      "convert": "node index.js"
    },
    "author": "Thanh",
    "license": "ISC",
